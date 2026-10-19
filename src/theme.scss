@@ -1,0 +1,36 @@
+/* Generated from sites/twisted-sisters-bake-shop/site.json. */
+:root {
+  --bg: #fffaf7;
+  --bg-alt: #fbece6;
+  --surface: #ffffff;
+  --ink: #2a1d1a;
+  --muted: #765f58;
+  --line: #f3e0d9;
+  --accent: #bf4b3a;
+  --accent-strong: #9a3a2c;
+  --accent-ink: #ffffff;
+  --accent-soft: #fbdfd7;
+  --accent-on-dark: #f1a99b;
+  --dark: #2a1d1a;
+  --dark-ink: #fffaf7;
+  --error: #b42318;
+  --font-display: 'Playfair Display', Georgia, serif;
+  --font-body: 'Work Sans', 'Helvetica Neue', Arial, sans-serif;
+  --display-weight: 600;
+  --display-tracking: -0.01em;
+  --radius: 16px;
+  --button-radius: 999px;
+  --hero-position: center 40%;
+  --logo-ratio: 1;
+  --product-position: center;
+  --topbar-bg: #ffffff;
+  --topbar-ink: #2a1d1a;
+  --topbar-line: #f3e0d9;
+  --product-fit: cover;
+  --product-bg: #fffaf7;
+  --logo-bg: #ffffff;
+  --logo-pad: 0.3rem 0.5rem;
+  --gutter: clamp(1rem, 4vw, 3rem);
+  --max-width: 1200px;
+  color-scheme: light;
+}
